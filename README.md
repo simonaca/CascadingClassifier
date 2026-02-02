@@ -1,4 +1,4 @@
-# CascadingClassifier #Sentinel2 #EarthObservation #ML #DL #AI #Volcano
+# Cascading machine learning to monitor volcanic thermal activity using orbital infrared data: From detection to quantitative evaluation
 
 
 Code by Simona Cariello - INGV Catania
